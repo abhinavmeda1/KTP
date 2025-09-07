@@ -1,6 +1,3 @@
-# KTP
-Emulating End-to-End Reliable Flow Control over UDP
-
                                                 Project Structure
 The codebase is organized into the following files:
 
@@ -145,16 +142,16 @@ file size is 102400 bytes.
 probability   original          Total           Avg
     P        transmissions   transmissions  transmissions
 
-    0.05        201             239            1.24
-    0.10        201             285            1.45
-    0.15        201             317            1.59
-    0.20        201             355            1.89
+    0.05        201             239            1.19
+    0.10        201             285            1.42
+    0.15        201             317            1.58
+    0.20        201             355            1.77
     0.25        201             414            2.06
-    0.30        201             492            2.50
+    0.30        201             492            2.45
     0.35        201             518            2.58
-    0.40        201             535            2.65
+    0.40        201             535            2.66
     0.45        201             548            2.73
-    0.50        201             675            3.43
+    0.50        201             675            3.36
 
 
 you may use this as an example to test:
